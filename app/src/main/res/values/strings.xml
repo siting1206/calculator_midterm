@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="ID">410721226</string>
+    <string name="N1">Num1 = </string>
+    <string name="N2">Num2 = </string>
+    <string name="hint">input</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="mup">x</string>
+    <string name="div">/</string>
+    <string name="answer">Answer = </string>
+    <string name="answer_value">answer</string>
+    <string name="value1">Name</string>
+    <string name="value2">Name</string>
+    <string name="todo">TODO</string>
+    <string name="clear">CLEAR</string>
+</resources>
